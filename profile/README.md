@@ -1,11 +1,11 @@
 ## Hi there 👋
 
+This is the private organization for Cozymugg Software sites. Please visit our wonderful clients' sites below:
 
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Cozymugg Software]((https://www.cozymuggsoftware.com))
+- [Maddy's Music Box](https://www.maddysmusicbox.com/)
+- [Hardie Parham](https://www.hardieparham.com/)
+- [Opryland Remebered](https://www.oprylandremembered.com/)
+- [Choke Index](https://www.chokeindex.com/)
+- Healing Hideaway Massage (Coming Soon)
+- Chasing Joy Blog (Coming Soon)
