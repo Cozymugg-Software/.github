@@ -2,7 +2,7 @@
 
 This is the private organization for Cozymugg Software sites. Please visit our wonderful clients' sites below:
 
-- [Cozymugg Software]((https://www.cozymuggsoftware.com))
+- [Cozymugg Software](https://www.cozymuggsoftware.com)
 - [Maddy's Music Box](https://www.maddysmusicbox.com/)
 - [Hardie Parham](https://www.hardieparham.com/)
 - [Opryland Remebered](https://www.oprylandremembered.com/)
